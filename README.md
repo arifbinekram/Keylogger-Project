@@ -1,6 +1,3 @@
-Sure, here's the README file tailored to your provided code:
-
----
 
 # Keylogger Project
 
@@ -73,9 +70,6 @@ This script captures keystrokes and prints the captured log to the console at re
 
 Contributions are welcome! If you have suggestions for improvements or encounter any issues, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
